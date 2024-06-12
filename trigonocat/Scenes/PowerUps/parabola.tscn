@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://c1xb0mr1k7yuu"]
+
+[ext_resource type="Script" path="res://Scripts/PowerUps/parabola.gd" id="1_ybac8"]
+[ext_resource type="Texture2D" uid="uid://byk8jp4ymt8on" path="res://Assets/Powerup/ax2+bx+c=0two.png" id="2_p2res"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_m2fxm"]
+size = Vector2(688, 76)
+
+[node name="Parabola" type="Area2D"]
+scale = Vector2(0.2, 0.2)
+script = ExtResource("1_ybac8")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("2_p2res")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-4, 2)
+shape = SubResource("RectangleShape2D_m2fxm")
+
+[connection signal="area_entered" from="." to="." method="_on_area_entered"]
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
