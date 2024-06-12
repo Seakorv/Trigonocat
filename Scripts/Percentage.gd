@@ -19,5 +19,4 @@ func _ready():
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):
 	distance_to_end = player.global_position.distance_to(end_point.global_position)
-	print(100 - snappedf(distance_to_end / map_distance * 100, 1))
 	percentage.text = str(100 - snappedf(distance_to_end / map_distance * 100, 1)) + "%"

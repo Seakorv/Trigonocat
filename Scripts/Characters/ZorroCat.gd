@@ -70,6 +70,9 @@ func _ready():
 func _process(delta):
 	if Input.is_action_just_pressed("Reset"):
 		get_tree().reload_current_scene()
+		
+	if Input.is_action_just_pressed("Exit"):
+		get_tree().quit()
 	
 	arrow_head.global_position = head_position.global_position
 

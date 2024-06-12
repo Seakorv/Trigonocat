@@ -225,6 +225,9 @@ position = Vector2(-29, -7857)
 [node name="Parabola2" parent="." instance=ExtResource("3_ka8p5")]
 position = Vector2(84, -843)
 
+[node name="Parabola8" parent="." instance=ExtResource("3_ka8p5")]
+position = Vector2(103, 816)
+
 [node name="Parabola3" parent="." instance=ExtResource("3_ka8p5")]
 position = Vector2(353, -2690)
 

@@ -1,0 +1,56 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1718194544
+export_presets.cfg::TextFile::-1::1718187243::0::1::::<><>::
+icon.svg::CompressedTexture2D::6439655929248248557::1717076061::1718163683::1::::<><>::
+::res://android/::1718160824
+::res://Assets/::1718158817
+::res://Assets/Characters/::1718163683
+pixil-frame-0 (7).png::CompressedTexture2D::1973428875651771659::1717082145::1718163683::1::::<><>::
+pixil-frame-0 (8).png::CompressedTexture2D::9021821125703966357::1718151533::1718163683::1::::<><>::
+pixil-frame-0 (9).png::CompressedTexture2D::5198519334512103732::1718151803::1718163683::1::::<><>::
+pixil-frame-0 (10).png::CompressedTexture2D::2051515987284765470::1718151811::1718163683::1::::<><>::
+pixil-frame-0 (11).png::CompressedTexture2D::1739398305422188356::1718158803::1718163683::1::::<><>::
+::res://Assets/Concrete/::1718163684
+BackgroundTrigo.png::CompressedTexture2D::6095132966770390660::1718154690::1718163684::1::::<><>::
+ConcreteTexture2.png::CompressedTexture2D::4822538425854808572::1717080810::1718163683::1::::<><>::
+ConcreteTexture3.png::CompressedTexture2D::7701106742140295817::1718126087::1718163683::1::::<><>::
+ConcreteTexture.png::CompressedTexture2D::453429401569132687::1717080119::1718163683::1::::<><>::
+ConcreteTextureSlides.png::CompressedTexture2D::3824050794606433770::1718126093::1718163683::1::::<><>::
+ConcreteTextureSlidesRotated.png::CompressedTexture2D::8497451703241047025::1718141833::1718163683::1::::<><>::
+::res://Assets/Fonts/::1718163683
+Arcade.ttf::FontFile::8379075339938232303::1718158687::1718163683::1::::<><>::
+::res://Assets/Math/::1718163683
+math1.png::CompressedTexture2D::4603904716000753383::1718152506::1718163683::1::::<><>::
+math2.png::CompressedTexture2D::6795051590316037210::1718152506::1718163683::1::::<><>::
+math3.png::CompressedTexture2D::735180816988170630::1718152506::1718163683::1::::<><>::
+math4.png::CompressedTexture2D::3306556021593367773::1718152506::1718163683::1::::<><>::
+::res://Assets/Powerup/::1718163683
+ax2+bx+b=0.png::CompressedTexture2D::6362174510953024651::1718106664::1718163683::1::::<><>::
+ax2+bx+c=0two.png::CompressedTexture2D::4093617275209765253::1718118905::1718163683::1::::<><>::
+fmax2.png::CompressedTexture2D::8099713537482535383::1718118352::1718163683::1::::<><>::
+::res://Assets/UI/::1718163683
+angle.png::CompressedTexture2D::421618663662867633::1717106390::1718163683::1::::<><>::
+AngleArrow.png::CompressedTexture2D::121863411871505530::1717106390::1718163683::1::::<><>::
+New Piskel (1).png::CompressedTexture2D::710402888119893241::1717442180::1718163683::1::::<><>::
+New Piskel (2).png::CompressedTexture2D::4990465586795495962::1717442180::1718163683::1::::<><>::
+::res://Scenes/::1718106692
+::res://Scenes/Environment/::1718162318
+camera_zoom_out.tscn::PackedScene::1743915212881886861::1718162318::0::1::::<><>::res://Scripts/CameraZoomOut.gd
+tile_map.tscn::PackedScene::273570782100774460::1718117249::0::1::::<><>::uid://caycrd2noc8bg::::res://Assets/Concrete/ConcreteTexture2.png
+::res://Scenes/Maps/::1718193259
+level_1.tscn::PackedScene::4292210004396654965::1718193259::0::1::::<><>::uid://cs3r7jtj0ewim::::res://Assets/Concrete/BackgroundTrigo.png<>uid://d5rw2puiaxqa::::res://Scenes/Environment/tile_map.tscn<>uid://b5e0j56csb224::::res://Scenes/Player/Player.tscn<>uid://dhyqdq7jlj7k4::::res://Assets/Concrete/ConcreteTexture3.png<>uid://buqns76fvcn8u::::res://Assets/Concrete/ConcreteTextureSlides.png<>uid://c1xb0mr1k7yuu::::res://Scenes/PowerUps/parabola.tscn<>uid://blj2f2arh5g3q::::res://Scenes/PowerUps/double_force.tscn<>uid://dtch11842tkir::::res://Assets/Concrete/ConcreteTextureSlidesRotated.png<>uid://y31a8iwlgcsb::::res://Scenes/Environment/camera_zoom_out.tscn<>res://Scripts/CameraZoomIn.gd<>res://Scripts/Percentage.gd<>uid://drm5e8r7oep8r::::res://Assets/Fonts/Arcade.ttf
+ui.tscn::PackedScene::3746002185847712836::1717106979::0::1::::<><>::
+::res://Scenes/Player/::1718193044
+Player.tscn::PackedScene::4501879124519054919::1718193044::0::1::::<><>::res://Scripts/Characters/ZorroCat.gd<>uid://3d7c5tcthvcl::::res://Assets/Characters/pixil-frame-0 (7).png<>uid://cgcg4beymrvp1::::res://Assets/Characters/pixil-frame-0 (9).png<>uid://y1tvvf2vcpw3::::res://Assets/Characters/pixil-frame-0 (11).png<>uid://4h1fy448mwla::::res://Assets/Characters/pixil-frame-0 (10).png<>uid://gah86pgnn050::::res://Assets/UI/angle.png<>uid://cddoienr1bdag::::res://Assets/UI/New Piskel (2).png<>uid://keeh46y3yyn6::::res://Assets/UI/New Piskel (1).png<>uid://d1sictwwc5twn::::res://Assets/Characters/pixil-frame-0 (8).png<>uid://bndyq20bocfdt::::res://Assets/Math/math4.png
+::res://Scenes/PowerUps/::1718162318
+double_force.tscn::PackedScene::3178727070185611744::1718162318::0::1::::<><>::uid://dnntdl7tf5032::::res://Assets/Powerup/fmax2.png<>res://Scripts/PowerUps/double_force.gd
+parabola.tscn::PackedScene::6645338009896655164::1718162318::0::1::::<><>::res://Scripts/PowerUps/parabola.gd<>uid://byk8jp4ymt8on::::res://Assets/Powerup/ax2+bx+c=0two.png
+::res://Scripts/::1718163918
+CameraZoomIn.gd::GDScript::-1::1718149503::0::1::::<>Area2D<>::
+CameraZoomOut.gd::GDScript::-1::1718149372::0::1::::<>Area2D<>::
+Percentage.gd::GDScript::-1::1718163918::0::1::::<>Control<>::
+::res://Scripts/Characters/::1718182721
+ZorroCat.gd::GDScript::-1::1718182721::0::1::::PlayerCat<>CharacterBody2D<>::
+::res://Scripts/PowerUps/::1718149503
+double_force.gd::GDScript::-1::1718146718::0::1::::<>Area2D<>::
+parabola.gd::GDScript::-1::1718149503::0::1::::<>Area2D<>::
